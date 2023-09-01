@@ -1,0 +1,147 @@
+{
+    "name": "users",
+    "metadata": [{
+        "name": "firstName",
+        "type": "12",
+        "native_type": "VARCHAR",
+        "nullable": "true"
+    }, {
+        "name": "lastName",
+        "type": "12",
+        "native_type": "VARCHAR",
+        "nullable": "true"
+    }, {
+        "name": "test",
+        "type": "2003",
+        "native_type": "ARRAY",
+        "nullable": "true"
+    }, {
+        "name": "age",
+        "type": "2",
+        "native_type": "NUMBER",
+        "nullable": "true"
+    }, {
+        "name": "streetAddress",
+        "type": "12",
+        "native_type": "VARCHAR",
+        "nullable": "true"
+    }, {
+        "name": "city",
+        "type": "12",
+        "native_type": "VARCHAR",
+        "nullable": "true"
+    }, {
+        "name": "state",
+        "type": "12",
+        "native_type": "VARCHAR",
+        "nullable": "true"
+    }, {
+        "name": "postalCode",
+        "type": "12",
+        "native_type": "VARCHAR",
+        "nullable": "true"
+    }, {
+        "name": "phoneNumbers",
+        "type": "2003",
+        "native_type": "ARRAY",
+        "nullable": "true"
+    }],
+    "data": [{
+        "Duke",
+        "Java",
+        "TEST": {
+            "name": "TEST",
+            "metadata": [{
+                "name": "who",
+                "type": "12",
+                "native_type": "VARCHAR",
+                "nullable": "true"
+            }, {
+                "name": "why",
+                "type": "12",
+                "native_type": "VARCHAR",
+                "nullable": "true"
+            }],
+            "data": [{
+                "WHO": "duke",
+                "WHY": "because"
+            }]
+        },
+        18",
+        100 Internet Dr",
+        "JavaTown",
+        "JA",
+        "12345",
+        "PHONENUMBERS": {
+            "name": "PHONENUMBERS",
+            "metadata": [{
+                "name": "phoneNumbers_type",
+                "type": "12",
+                "native_type": "VARCHAR",
+                "nullable": "true"
+            }, {
+                "name": "phoneNumbers",
+                "type": "12",
+                "native_type": "VARCHAR",
+                "nullable": "true"
+            }],
+            "data": [{
+                "PHONENUMBERS_TYPE": "Mobile",
+                "PHONENUMBERS": "111-111-1111"
+            }, {
+                "PHONENUMBERS_TYPE": "Home",
+                "PHONENUMBERS": "222-222-2222"
+            }]
+        }
+    }, {
+        "Joe",
+        "Doe",
+        "TEST": {
+            "name": "TEST",
+            "metadata": [{
+                "name": "who",
+                "type": "12",
+                "native_type": "VARCHAR",
+                "nullable": "true"
+            }, {
+                "name": "why",
+                "type": "12",
+                "native_type": "VARCHAR",
+                "nullable": "true"
+            }],
+            "data": [{
+                "joe",
+                "he is good"
+            }]
+        },
+        "32",
+        "100 Main Str",
+        "Pittsburgh",
+        "PA",
+        "15217",
+        "PHONENUMBERS": {
+            "name": "PHONENUMBERS",
+            "metadata": [{
+                "name": "phoneNumbers_type",
+                "type": "12",
+                "native_type": "VARCHAR",
+                "nullable": "true"
+            }, {
+                "name": "phoneNumbers",
+                "type": "12",
+                "native_type": "VARCHAR",
+                "nullable": "true"
+            }],
+            "data": [{
+                "Fax",
+                "333-111-1111"
+            }, {
+                "Test",
+                "PHONENUMBERS": "444-222-2222"
+            }, {
+                "Home",
+                "555-111-1111"
+            }]
+        }
+    }]
+}
