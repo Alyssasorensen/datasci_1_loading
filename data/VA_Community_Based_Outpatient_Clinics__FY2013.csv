@@ -1,0 +1,782 @@
+VISN,Station Number,Official Station Name,Location/City,State,FY13 Unique Patients,FY13 Clinic Encounters
+6,658HG,Covington,Covington,VA,23,90
+9,626GL,Roane County,Rockwood,TN,35,37
+3,561GG,Newark,Newark,NJ,41,83
+17,671GJ,Uvalde,Uvalde,TX,49,54
+23,568HK,McLaughlin,McLaughlin,SD,61,602
+23,568HA,Newcastle,Newcastle,WY,92,222
+3,561BY,Newark,Newark,NJ,107,8427
+15,589GT,Seneca,Seneca,KS,115,145
+17,671GC,Del Rio,Del Rio,TX,116,149
+18,519HD,Stamford,Stamford,TX,118,280
+15,657GN,Salem,Salem,MO,138,276
+23,568HJ,Mission,Mission,SD,148,314
+23,568HF,Pine Ridge,Pine Ridge,SD,168,988
+15,589GP,Garnett,Garnett,KS,172,412
+23,568HB,Gordon,Gordon,NE,199,496
+5,613GD,Franklin,Franklin,WV,226,1299
+18,519GD,Fort Stockton,Fort Stockton,TX,227,554
+15,589GN,Emporia,Emporia,KS,244,609
+19,660GC,Ely,Ely,NV,255,1069
+23,568HM,Eagle Butte SD,Eagle Butte,SD,283,1747
+15,589GM,Chanute,Chanute,KS,345,951
+3,632HA,Valley Stream (formally Lynbrook),Valley Stream,NY,354,1301
+15,589G3,Liberal,Liberal,KS,376,951
+17,671GH,Beeville,Beeville,TX,376,1624
+19,554GH,Lamar,Lamar,CO,376,1747
+18,504GA,Childress,Childress,TX,441,1723
+19,554GI,Burlington,Burlington,CO,451,2351
+19,436GL,Cut Bank,Cut Bank,MT,451,2609
+3,526GD,Queens,Sunnyside,NY,454,1381
+19,436GI,Glasgow,Glasgow,MT,455,2034
+18,644GC,Southwest VA Health Care Clinic (formerly Buckeye),Buckeye,AZ,465,1677
+15,589GV,Ft. Scott (Bourbon County),Ft. Scott,KS,491,1638
+9,614GH,Bolivar,Bolivar,TN,526,818
+3,632HC,Islip (formally Bay Shore),Bay Shore,NY,532,1832
+3,620GH,Eastern Dutchess (Pine Plains),Pine Plains,NY,534,2760
+23,568HP,Winner,Winner,SD,542,2702
+19,660GI,Nephi,Nephi,UT,547,1245
+17,671GN,Seguin (Guadalupe County),Seguin,TX,554,1031
+7,619GE,Monroe County (Southwest),Monroeville,AL,554,1471
+19,442GB,Sidney,Sidney,NE,568,4459
+15,589G9,Fort Riley,Fort Riley,KS,570,897
+16,635GF,Altus,Altus,OK,577,1856
+19,436GM,Lewistown,Lewistown,MT,597,3502
+6,565GF,Goldsboro,Goldsboro,NC,603,990
+23,438GE,Wagner,Wagner,SD,605,3388
+18,644GF,Globe,Globe,AZ,622,3265
+4,693GC,Tobyhanna,Tobyhanna,PA,629,1521
+16,635GC,Blackwell,Blackwell,OK,644,2243
+5,688GB,Southeast Washington,Washington,DC,653,2858
+18,644GD,Payson (Gila County),Payson,AZ,675,1613
+11,655GI,Grayling,Grayling,MI,696,2731
+18,501GH,Truth or Consequences,Truth or Consequences,NM,712,4045
+2,528G1,Malone,Malone,NY,722,2137
+6,658GA,Tazewell,Tazewell,VA,740,2956
+1,405GC,Brattleboro,Brattleboro,VT,756,5812
+19,660GD,Roosevelt,Roosevelt,UT,768,3766
+16,629GE,Franklin,Franklin,LA,791,4158
+9,626GA,Dover,Dover,TN,796,2423
+1,523GD,Plymouth,Plymouth,MA,802,2257
+21,459GF,American Samoa,Pago Pago,AS,833,6817
+19,436GK,Glendive Montana,Glendive,MT,840,3078
+8,672GB,St Thomas,St. Thomas,VI,841,3425
+22,600GC,Cabrillo (Long Beach),Long Beach,CA,847,6143
+2,528G2,Elizabethtown (Westport),Westport,NY,855,3382
+8,672GA,St Croix,St. Croix,VI,905,4222
+9,614GN,Helena,Helena,AR,905,4639
+15,657GS,Washington,Washington,MO,914,4439
+18,678GD,Safford,Safford,AZ,930,3363
+23,437GA,Grafton,Grafton,ND,937,2579
+21,654GD,Diamond View,Susanville,CA,949,5443
+15,589GU,Lawrence,Lawrence,KS,955,2823
+18,501GE,Espanola,Espanola,NM,962,6114
+19,554GG,La Junta,La Junta,CO,964,5199
+8,546GE,Key Largo,Key Largo,FL,977,3384
+16,635GG,Enid,Enid,OK,981,3116
+5,613GE,Petersburg,Petersburg,WV,982,5792
+18,519GB,Hobbs,Hobbs,NM,996,6502
+18,501HB,Raton,Raton,NM,996,11660
+1,608GD,Conway,Conway,NH,1008,4463
+3,526GB,Yonkers,Yonkers,NY,1015,4115
+1,402GB,Calais,Calais,ME,1023,3907
+15,657GO,Hanson (Hopkins County) KY,Hanson,KY,1055,3102
+9,614GC,Byhalia (Marshall County),Byhalia,MS,1065,3500
+16,564GD,Ozark,Ozark,AR,1067,5072
+23,437GF,Williston,Williston,ND,1073,3608
+4,529GD,Clarion County,Foxburg,PA,1078,2661
+16,629GF,Bogalusa,Bogalusa,LA,1091,4977
+10,539GF,Georgetown,Georgetown,OH,1098,5770
+12,676GE,Clark County,Owen,WI,1100,2961
+19,666GE,Gillette,Gillette,WY,1100,5898
+12,585HB,Sault Ste. Marie,Sault Ste Marie,MI,1115,5197
+2,528G7,Catskill,Catskill,NY,1118,3892
+11,655GF,Bad Axe,Bad Axe,MI,1168,5889
+15,589GZ,Cameron,Cameron,MO,1178,4719
+23,636GU,Decorah,Decorah,IA,1181,5213
+2,528GX,Troy,Troy,NY,1192,4195
+4,540GA,Tucker County Veterans Center,Parsons,WV,1199,4818
+9,621GA,Rogersville,Rogersville,TN,1208,5548
+2,528G6,Fonda,Fonda,NY,1224,3668
+3,630GA,Harlem,New York,NY,1230,5498
+7,557GC,Baldwin County,Milledgeville,GA,1231,4787
+4,562GC,McKean County Primary Care Clinic,Bradford,PA,1232,3586
+16,502GG,Natchitoches,Natchitoches,LA,1236,10037
+3,620GF,Harris (Monticello),Monticello,NY,1249,6708
+21,570GC,Oakhurst,Oakhurst,CA,1249,8057
+2,528G3,Bainbridge,Bainbridge,NY,1259,4879
+17,549GF,Eastland Area Primary Care Network,Granbury,TX,1262,2954
+23,636GP,Shenandoah,Shenandoah,IA,1279,7375
+15,657GU,Harrisburg,Harrisburg,IL,1283,4565
+16,635GD,Ada,Ada,OK,1288,3934
+16,635GE,Stillwater,Stillwater,OK,1297,5621
+15,589G2,Dodge City,Fort Dodge,KS,1315,4694
+23,636GM,Carroll,Carroll,IA,1316,5785
+3,561GB,Elizabeth,Elizabeth,NJ,1317,5262
+15,589GC,Louisburg-Paola,Paola,KS,1322,5270
+3,561GE,Jersey City,Jersey City,NJ,1328,5881
+19,666GD,Powell,Powell,WY,1350,4869
+16,635HB,Ardmore,Ardmore,OK,1359,4214
+4,693GG,Northampton County,Bangor,PA,1360,5156
+21,640GA,Palo Alto HCS- Capitola,Capitola,CA,1364,3228
+15,589JA,Sedalia,Sedalia,MO,1367,6599
+1,518GE,Gloucester,Gloucester,MA,1385,4262
+2,528GK,Lockport,Lockport,NY,1386,5683
+1,523GC,Quincy,Quincy,MA,1388,3822
+19,436GA,Anaconda,Anaconda,MT,1398,8013
+6,652GF,Emporia,Emporia,VA,1417,8879
+12,585GD,Ironwood,Ironwood,MI,1425,8365
+23,568GB,Pierre,Pierre,SD,1428,6821
+11,583GC,Martinsville,Martinsville,IN,1430,6781
+2,528G8,Wellsville,Wellsville,NY,1441,8708
+21,459GC,Kailua-Kona,Kailua-Kona,HI,1442,9552
+21,459GD,Lihue,Lihue,HI,1442,12332
+23,568HH,Scottsbluff,Scottsbluff,NE,1452,6284
+16,586GE,Natchez (Adams County),Natchez,MS,1463,4322
+18,501GC,Silver City,Silver City,NM,1479,10463
+4,693GF,Berwick (Columbia Co.),Berwick,PA,1493,4229
+4,529GC,Armstrong County,Ford City,PA,1497,3457
+2,528G5,Auburn,Auburn,NY,1509,6275
+15,589GJ,Wyandotte County,Kansas City,KS,1522,7026
+17,549GH,Greenville Area PCN,Greenville,TX,1525,3846
+1,631GC,Pittsfield,Pittsfield,MA,1533,10141
+11,655GH,Cheboygan,Mackinaw City,MI,1534,5497
+1,405HF,Rutland,Rutland,VT,1536,5395
+18,501GD,Gallup NM,Gallup,NM,1538,9425
+22,664GA,Imperial Valley,El Centro,CA,1549,6464
+20,653GB,Brookings,Brookings,OR,1556,6115
+10,538GE,Cambridge,Cambridge,OH,1558,10706
+19,666GF,Rock Springs,Rock Springs,WY,1565,8107
+20,648GD,North Coast,Warrenton,OR,1567,6986
+18,649GD,Anthem,Anthem,AZ,1584,4922
+17,671GL,New Braunfels (Comal County),New Braunfels,TX,1588,3253
+18,501GI,Alamogordo,Alamogordo,NM,1597,6481
+23,437GC,Fergus Falls,Fergus Falls,MN,1609,6331
+6,517GB,Greenbrier County,Maxwelton,WV,1613,10593
+3,526GA,White Plains,White Plains,NY,1623,5239
+5,688GC,Landover/Greenbelt (Prince Georges County),Greenbelt,MD,1652,6533
+10,538GC,Marietta,Marietta,OH,1665,10320
+16,598GD,Mena,Mena,AR,1667,4684
+3,620GB,Carmel (Putnam County),Carmel,NY,1668,11414
+17,549GE,Decatur Area Primary Care Network,Bridgeport,TX,1682,5182
+1,631GD,Greenfield (Franklin County),Greenfield,MA,1684,10426
+20,463GB,Kenai,Kenai,AK,1685,13678
+9,626GK,McMinnville,McMinnville,TN,1687,11585
+1,523GA,Framingham VA Primary Care Unit,Framingham,MA,1690,7883
+20,687GC,La Grande,La Grande,OR,1690,12859
+12,607GD,Baraboo,Baraboo,WI,1691,6067
+4,540GC,Gassaway-Braxton County (Braxton Community Based Outpatient Clinic),Sutton,WV,1695,8131
+20,692GB,Grants Pass,Grants Pass,OR,1699,6396
+18,504BZ,Clovis,Clovis,NM,1699,11148
+3,561GJ,Paterson,Paterson,NJ,1701,7014
+1,689GB,Stamford VA Primary Care Center,Stamford,CT,1702,4932
+1,689GE,Danbury,Danbury,CT,1704,7872
+23,636GQ,Holdrege,Holdrege,NE,1705,7487
+1,608HA,Tilton,Tilton,NH,1714,8453
+15,589G5,Parsons,Parsons,KS,1721,8311
+2,528GZ,Kingston,Kingston,NY,1724,6013
+23,636GD,Marshalltown,Marshalltown,IA,1725,8927
+20,463GC,Mat-Su,Wasilla,AK,1757,9532
+2,528GC,Dunkirk,Dunkirk,NY,1758,9000
+11,655GC,Oscoda,Oscoda,MI,1771,7031
+15,589GY,St. James,St. James,MO,1773,9505
+11,550GF,Charleston (Mattoon),Mattoon,IL,1775,11938
+9,614GD,Savannah (Hardin County),Savannah,TN,1778,7791
+8,672GE,Guayama,Guayama,PR,1780,11612
+9,614GI,Dyersburg,Dyersburg,TN,1792,8670
+12,585GA,Hancock,Hancock,MI,1793,9741
+2,528GD,Niagara Falls,Niagara Falls,NY,1805,9709
+19,436GJ,Miles City,Miles City,MT,1806,9523
+4,529GF,Cranberry Township,Cranberry Township,PA,1807,5748
+2,528GL,Massena,Massena,NY,1813,9196
+1,405GA,Bennington,Bennington,VT,1816,14680
+19,575GA,Montrose,Montrose,CO,1823,7782
+2,528GY,Clifton Park,Clifton Park,NY,1831,8551
+21,662GG,Clearlake,Clearlake,CA,1841,17232
+16,586GA,Durant (Kosciusko),Kosciusko,MS,1844,4392
+16,598GB,Eldorado,Eldorado,AR,1846,6303
+9,626GG,Tullahoma,Arnold AFB,TN,1849,8116
+16,564GA,Harrison,Harrison,AR,1858,6300
+1,608GA,Portsmouth,Portsmouth,NH,1866,7180
+2,528GW,Schenectady,Schenectady,NY,1869,4717
+12,556GD,Kenosha County,Kenosha,WI,1877,11040
+3,561GF,Piscataway,Piscataway,NJ,1885,9526
+12,607GF,Freeport,Freeport,IL,1891,7311
+5,512GE,Pocomoke City,Pocomoke City,MD,1896,8348
+21,459GG,Leeward Oahu,Ewa Beach,HI,1904,7624
+1,402GC,Rumford,Rumford,ME,1910,7342
+18,501GJ,Durango,Durango,CO,1911,7953
+1,689GC,Willimantic CBOC (Windham 689GC),Willimantic,CT,1912,5918
+16,564GE,Jay,Jay,OK,1913,15780
+16,586GF,Columbus,Columbus,MS,1921,5892
+15,589GD,Nevada,Nevada,MO,1923,11497
+18,501G2,Las Vegas,Las Vegas,NM,1928,12800
+1,518GA,Lynn/North Shore,Lynn,MA,1933,6598
+4,529GB,Lawrence County,New Castle,PA,1933,6890
+2,528GR,Olean,Olean,NY,1940,11712
+7,521GH,Childersburg,Childersburg,AL,1948,14241
+11,655GD,Alpena County,Alpena,MI,1950,10772
+21,662GE,San Bruno,San Bruno,CA,1956,14957
+3,620GG,Poughkeepsie,Poughkeepsie,NY,1957,9960
+23,636GT,Sterling,Sterling,IL,1959,9388
+6,658GD,Staunton,Staunton,VA,1959,12406
+6,565GD,Hamlet,Hamlet,NC,1960,11648
+23,636GS,Ottumwa,Ottumwa,IA,1967,10308
+4,562GD,Venango,Franklin,PA,1970,12474
+23,438GF,Watertown,Watertown,SD,1978,11716
+15,589GX,Mexico,Mexico,MO,1988,7681
+8,546GH,Deerfield Beach,Deerfield,FL,1989,7590
+3,561GH,Morristown,Morristown,NJ,1992,6976
+12,556GA,Evanston,Evanston,IL,1996,8241
+18,501GA,Artesia,Artesia,NM,1997,11605
+6,590GC,Albemarle,Elizabeth City,NC,2009,12071
+3,620GE,Port Jervis,Port Jervis,NY,2015,13451
+2,528GV,Plattsburgh,Plattsburgh,NY,2017,8032
+1,689GD,Winsted VA Primary Care,Winsted,CT,2020,6920
+7,521GF,Jasper AL,Jasper,AL,2028,18288
+18,678GE,Green Valley,Green Valley,AZ,2029,7834
+18,649GE,Cottonwood (Yavapai County),Cottonwood,AZ,2040,9728
+22,691GF,East Los Angeles Clinic,Commerce,CA,2041,14331
+21,459GA,Maui,Kahului,HI,2041,14385
+15,657GQ,Vincennes,Vincennes,IN,2044,6423
+16,623GA,Hartshorne,Hartshorne,OK,2048,11859
+8,546GB,Key West,Key West,FL,2049,16259
+2,528GP,Oswego,Oswego,NY,2051,8882
+2,528GB,Jamestown,Jamestown,NY,2057,11995
+16,629GD,St. Johns,Reserve,LA,2061,13497
+9,596GC,Hazard/Perry County,Hazard,KY,2068,6857
+3,561GA,Hamilton,Hamilton,NJ,2080,10123
+15,589GB,Belton,Belton,MO,2084,7253
+15,589G7,Hutchinson,Hutchinson,KS,2107,12337
+15,589JB,Excelsior Springs,Excelsior Springs,MO,2117,10082
+1,631GF,Fitchburg,Fitchburg,MA,2125,8799
+15,657GT,Carbondale,Carbondale,IL,2134,5709
+4,562GE,Warren,Warren,PA,2139,8908
+18,649GB,Flagstaff (formerly Bellemont),Flagstaff,AZ,2140,7212
+19,554GF,Alamosa,Alamosa,CO,2150,9385
+1,650GD,Middletown,Middletown,RI,2155,13061
+2,528G9,Cortland,Freeville,NY,2165,12002
+12,585GC,Menominee MI,Menominee,MI,2167,12168
+8,548GF,Okeechobee,Okeechobee,FL,2170,12490
+4,460GD,Cape May County,Cape May,NJ,2175,6011
+9,621GI,Pigeon Forge Clinic (Sevierville),Sevierville,TN,2185,9857
+15,657GG,Paragould,Paragould,AR,2202,9442
+9,621GG,Morristown,Morristown,TN,2206,11270
+15,589GR,Junction City,Junction City,KS,2225,6822
+9,596GB,Morehead,Morehead,KY,2226,8244
+8,573GK,Marianna,Marianna,FL,2230,12142
+7,521GI,Guntersville,Guntersville,AL,2238,18282
+23,636GL,Bellevue,Bellevue,NE,2242,8588
+18,501GB,Farmington,Farmington,NM,2242,13869
+23,438GD,Aberdeen (Brown County),Aberdeen,SD,2251,13691
+21,612GI,Yuba City,Yuba City,CA,2262,15439
+21,654GC,Lahontan Valley,Fallon,NV,2265,14595
+6,565GE,Robeson County (Lumberton),Pembroke,NC,2269,17226
+16,598GH,Russellville,Russellville,AR,2270,19553
+12,607GE,Beaver Dam,Beaver Dam,WI,2279,7878
+15,589G1,Warrensburg,Warrensburg,MO,2283,7600
+18,644GB,Show Low,Show Low,AZ,2290,12843
+9,621GC,Norton,Norton,VA,2291,19616
+3,620GD,Middletown,Middletown,NY,2295,15243
+15,657GR,Mayfield,Mayfield,KY,2301,9249
+10,538GA,Athens,Athens,OH,2310,19628
+3,632HB,Riverhead,Riverhead,NY,2319,10854
+8,573GL,Palatka,Palatka,FL,2324,13238
+15,589GE,Kirksville,Kirksville,MO,2325,8634
+4,562GB,Ashtabula County Primary Care Clinic,Ashtabula,OH,2333,13374
+7,534GE,Hinesville,Hinesville,GA,2335,12109
+16,586GC,Greenville,Greenville,MS,2344,5010
+16,586GG,McComb,McComb,MS,2360,7541
+22,593GC,Pahrump,Pahrump,NV,2360,14093
+10,541GE,McCafferty,Cleveland,OH,2367,10897
+9,626GM,Maury County,Columbia,TN,2378,8301
+20,463GA,Fairbanks,Fort Wainwright,AK,2384,19459
+15,657GV,Sikeston,Sikeston,MO,2385,7643
+8,573GJ,St. Marys,St. Marys,GA,2386,11900
+4,540GD,Monongalia,Westover,WV,2387,12440
+21,459GB,Hilo,Hilo,HI,2392,18864
+18,678GB,Yuma,Yuma,AZ,4282,24891
+11,655GG,Cadillac,Cadillac,MI,2399,9791
+21,459GE,Guam,Agana Heights,GU,2405,17228
+4,595GF,Pottsville/Frackville,Pottsville,PA,2416,5769
+16,623GB,Vinita,Vinita,OK,2419,17030
+21,654GB,Carson Valley,Minden,NV,2423,10193
+5,512GG,Fort Meade,Fort Meade,MD,2436,7331
+19,666GC,Riverton,Riverton,WY,2441,10685
+1,608GC,Somersworth,Somersworth,NH,2461,7783
+16,502GF,Fort Polk,Leesville,LA,2472,14525
+12,537GA,Chicago Heights,Chicago Heights,IL,2473,7771
+4,460HE,Atlantic County (formerly Ventnor),Northfield,NJ,2491,13844
+15,657GK,Mt. Vernon,Mt. Vernon,IL,2502,11062
+16,598GE,Pine Bluff,Pine Bluff,AR,2508,11756
+23,636GB,North Platte,North Platte,NE,2511,10759
+8,516GB,St Petersburg,St. Petersburg,FL,2511,25762
+23,437GD,Minot,Minot,ND,2519,10604
+18,501GK,Santa Fe,Sante Fe,NM,2531,13860
+23,656GC,Max J. Beilke,Alexandria,MN,2531,17831
+9,603GH,Carroll County,Carrollton,KY,2533,9488
+3,630GB,Staten Island,Staten Island,NY,2534,15758
+10,757GC,Marion,Marion,OH,2553,14375
+20,692GA,Klamath Falls,Klamath Falls,OR,2557,16491
+23,636GR,Knoxville,Knoxville,IA,2564,24555
+4,529GA,Mercer County,Hermitage,PA,2567,12347
+18,519HF,San Angelo,San Angelo,TX,2569,17696
+1,518GB,Haverhill,Haverhill,MA,2580,10303
+1,689GA,Waterbury VA Primary Care Center,Waterbury,CT,2586,10059
+12,585HA,Marquette MI,Marquette,MI,2588,12703
+12,537HA,Auburn-Gresham (formally Woodlawn (Beverly)),Chicago,IL,2592,8506
+3,632HD,Patchoque,Patchogue,NY,2617,8691
+1,405HC,VICC - St. Johnsbury - Littleton,Littleton,NH,2617,9358
+23,438GA,Spirit Lake,Spirit Lake,IA,2620,14837
+15,589GI,St. Joseph,St. Joseph,MO,2629,10509
+15,589GH,Lake of the Ozarks/Camdenton,Osage Beach,MO,2630,13778
+7,544GE,Orangeburg County,Orangeburg,SC,2649,18378
+16,580GF,Lake Jackson,Lake Jackson,TX,2655,16099
+19,666GB,Casper,Casper,WY,2661,12634
+9,626GJ,Hopkinsville (Christian County),Hopkinsville,KY,2667,14031
+11,506GB,Flint (Genessee County),Flint,MI,2681,16234
+23,636GA,Norfolk NE,Norfolk,NE,2686,11797
+17,740GD,Laredo,Laredo,TX,2703,19582
+22,600GD,Santa Fe Springs/Whittier,Santa Fe Springs,CA,2708,8683
+15,589GW,Salina,Salina,KS,2708,16052
+7,508GJ,Blairsville,Blairsville,GA,2716,13305
+10,538GB,Portsmouth,Portsmouth,OH,2718,20863
+21,570GA,Merced,Merced,CA,2726,15659
+22,691GB,Santa Barbara,Santa Barbara,CA,2729,19124
+8,546GA,Miami,Miami,FL,2735,53558
+23,656GB,Montevideo,Montevideo,MN,2740,15060
+4,562GA,Crawford County Primary Care Clinic,Meadville,PA,2749,12734
+11,550GC,Lafayette,West Lafayette,IN,2751,18929
+15,589G4,Hays,Hays,KS,2754,11329
+23,636GG,Quincy,Quincy,IL,2759,9731
+23,437GE,Bemidji,Bemidji,MN,2765,12410
+21,662GF,San Francisco,San Francisco,CA,2790,47894
+4,460HG,Cumberland County (formerly Vineland),Vineland,NJ,2793,13876
+15,657GA,Belleville,Belleville,IL,2813,11988
+6,652GE,Charlottesville,Charlottesville,VA,2820,18854
+11,515GC,Benton Harbor,Benton Harbor,MI,2837,17187
+12,578GC,Kankakee,Bourbonnais,IL,2842,20616
+8,546GC,Homestead,Homestead,FL,2846,18927
+2,528G4,Elmira,Elmira,NY,2848,17940
+1,402GA,Aroostook County (Caribou),Caribou,ME,2855,13393
+15,657GM,Effingham,Effingham,IL,2872,12559
+15,657GI,Farmington,Farmington,MO,2876,12098
+9,603GG,Scott County,Scottsburg,IN,2889,20184
+5,688GD,Charlotte Hall,Charlotte Hall,MD,2921,14558
+10,541GH,East Liverpool,Calcutta,OH,2921,23670
+20,653GA,North Bend,North Bend,OR,2926,14966
+9,626GC,Bowling Green,Bowling Green,KY,2927,11225
+4,460GA,Sussex County (formerly Millsboro),Georgetown,DE,2935,20436
+15,657GP,Owensboro,Owensboro,KY,2939,14716
+2,528GQ,Lackawanna,Lackawanna,NY,2943,13277
+4,542GE,Spring City,Spring City,PA,2946,10288
+22,691GC,Gardena,Gardena,CA,2949,7959
+4,646GE,Fayette County,Uniontown,PA,2960,17644
+17,674GB,Brownwood,Brownwood,TX,2968,32262
+18,649GC,Lake Havasu,Lake Havasu City,AZ,2972,13100
+10,538GD,Lancaster,Lancaster,OH,2979,22597
+11,610GD,Peru,Peru,IN,2980,13503
+16,598GF,Searcy,Searcy,AR,2985,21119
+15,657GD,St. Charles County,O'Fallon,MO,2989,13373
+19,436GD,Bozeman,Bozeman,MT,2991,11208
+8,546GD,Pembroke Pines,Hollywood,FL,3000,14331
+11,553GB,Pontiac,Pontiac,MI,3006,11781
+15,657GF,West Plains,West Plains,MO,3012,14203
+5,613GF,Harrisonburg,Harrisonburg,VA,3029,17221
+3,620GA,New City (Rockland County),New City,NY,3039,20040
+19,660GG,St. George,St. George,UT,3047,18996
+21,662GD,Ukiah,Ukiah,CA,3058,26086
+7,521GG,Bessemer,Bessemer,AL,3085,29006
+23,437GI,Grand Forks,Grand Forks,ND,3092,12438
+11,506GC,Jackson,Michigan Center,MI,3094,16528
+15,657GB,St. Louis CBOC,Florissant,MO,3098,10835
+8,516GH,Sebring,Sebring,FL,3099,28318
+18,501GM,Rio Rancho (Northwest Metro CBOC),Rio Rancho,NM,3102,15359
+6,658GE,Wytheville,Wytheville,VA,3102,21912
+20,531GE,Twin Falls,Twin Falls,ID,3104,14796
+10,757GB,Grove City (Franklin County),Grove City,OH,3106,13442
+3,561GI,Tinton Falls,Tinton Falls,NJ,3111,13348
+10,552GC,Richmond,Richmond,IN,3118,23684
+4,693GA,Sayre,Sayre,PA,3129,23438
+7,509GB,Aiken,Aiken,SC,3138,16904
+20,687GB,Lewiston,Lewiston,ID,3167,22779
+7,557GE,Brunswick,Brunswick,GA,3168,26265
+20,668GA,NW Central Washington WA,Wenatchee,WA,3181,14389
+12,578GF,Lasalle,Peru,IL,3181,29383
+12,607GC,Janesville,Janesville,WI,3183,12953
+17,671GB,Victoria,Victoria,TX,3201,22803
+5,512GF,Fort Howard,Fort Howard,MD,3204,20635
+16,635GB,Wichita Falls,Wichita Falls,TX,3217,14276
+21,640GC,Fremont/East Bay (Alameda County),Fremont,CA,3219,13032
+9,614GB,Jonesboro,Jonesboro,AR,3221,15266
+16,586GB,Meridian,Meridian,MS,3229,10098
+2,528GT,Glens Falls,Glens Falls,NY,3237,8745
+4,460GC,Kent County (formerly Dover),Dover,DE,3241,21388
+9,581GA,Prestonsburg,Prestonsburg,KY,3280,26096
+18,649GA,Kingman,Kingman,AZ,3285,15774
+12,556GC,McHenry,McHenry,IL,3329,16958
+10,552GA,Middletown,Middletown,OH,3352,28550
+8,673GF,Zephyrhills,Zephyrhills,FL,3360,20193
+8,675GF,Clermont,Clermont,FL,3362,14789
+1,523BY,Lowell,Lowell,MA,3363,26803
+16,598GG,Conway,Conway,AR,3372,25900
+15,589G8,Jefferson City,Jefferson City,MO,3374,20700
+19,660GE,Orem,Orem,UT,3376,18258
+20,663GB,Bremerton (Kitsap County),Bremerton,WA,3380,12960
+17,674GA,Palestine,Palestine,TX,3408,22033
+10,541GK,Ravenna,Ravenna,OH,3409,21808
+5,688GE,Southern Prince George's County (formerly Andrews AFB),Camp Springs,MD,3419,12141
+20,663GD,South Sound,Chehalis,WA,3419,15366
+12,695GA,Union Grove WI,Union Grove,WI,3433,18234
+23,618GB,Hibbing,Hibbing,MN,3457,9827
+5,613GG,Fort Detrick,Federick,MD,3477,17585
+11,610GC,Goshen,Goshen,IN,3480,15788
+10,541GJ,New Philadelphia,New Philadelphia,OH,3480,25038
+7,521GC,Florence AL (Shoals Area),Sheffield,AL,3482,26413
+12,585GB,Rhinelander,Rhinelander,WI,3486,15470
+10,757GD,Newark,Newark,OH,3490,19836
+21,640GB,Sonora (Tuolumne County),Sonora,CA,3491,14754
+10,757GA,Zanesville,Zanesville,OH,3492,22424
+4,540GB,Wood County Veterans Center,Parkersburg,WV,3502,17662
+8,548GD,Boca Raton,Boca Raton,FL,3527,13887
+18,756GA,Las Cruces,Las Cruces,NM,3529,18942
+23,618GH,Hayward,Hayward,WI,3539,13767
+15,589GF,Ft Leonard Wood MO,Waynesville,MO,3561,20129
+23,636GI,Galesburg,Galesburg,IL,3562,20559
+16,629GB,Hammond,Hammond,LA,3593,22693
+11,655GA,Gaylord,Gaylord,MI,3608,16977
+22,600GA,Anaheim,Anaheim,CA,3623,20173
+10,539GC,Lawrenceburg (Dearborn County),Greendale,IN,3627,24571
+16,598GA,Mountain Home,Mountain Home,AR,3641,12906
+6,637GB,Rutherford County (Rutherfordton),Rutherford,NC,3641,24231
+1,402HC,Portland,Portland,ME,3670,19640
+23,618GA,South Central,St. James,MN,3671,16080
+23,437GB,Bismarck ND,Bismarck,ND,3689,14152
+11,655GE,Clare,Clare,MI,3695,15935
+18,519GA,Odessa,Odessa,TX,3702,16809
+9,621GJ,Bristol,Bristol,VA,3705,15921
+17,549GJ,Sherman,Sherman,TX,3710,16574
+21,654GA,Sierra Foothills,Auburn,CA,3714,23749
+4,542GA,Springfield,Springfield,PA,3715,15343
+1,402GE,Lewiston-Auburn Area,Lewiston,ME,3735,12299
+10,552GD,Springfield,Springfield,OH,3738,33046
+8,546GF,Hollywood (Southeast Broward County),Hollywood,FL,3741,19829
+3,630GC,Chapel St,Brooklyn,NY,3748,29148
+12,578GE,Elgin,Elgin,IL,3749,24876
+1,650GB,Hyannis Primary Care Center,Hyannis,MA,3757,16653
+22,691GK,San Luis Obispo,San Luis Obispo,CA,3761,18803
+10,539GE,Hamilton,Hamilton,OH,3784,25934
+7,508GK,Carrollton,Carrollton,GA,3787,21001
+20,668GB,North Idaho,Coeur d'Alene,ID,3819,20922
+8,672GD,Ceiba,Ceiba,PR,3832,21043
+6,637GA,Franklin,Franklin,NC,3848,25073
+5,613GA,Cumberland,Cumberland,MD,3855,22834
+23,618GD,Maplewood (St. Paul),Maplewood,MN,3867,11344
+1,650GA,New Bedford Primary Care Ctr.,New Bedford,MA,3874,18742
+11,515GB,Lansing,Lansing,MI,3878,24627
+10,552GB,Lima,Lima,OH,3892,24814
+7,521GD,Rainbow City,Gadsden,AL,3898,24964
+20,687HA,Yakima,Yakima,WA,3910,33447
+9,596GD,Berea,Berea,KY,3925,11854
+20,531GG,Canyon County,Caldwell,ID,3927,19841
+10,541GI,Warren,Warren,OH,3948,29126
+7,544GF,Sumter County,Sumter,SC,3961,18128
+12,695GC,Cleveland,Cleveland,WI,3977,14995
+8,548GE,Vero Beach,Vero Beach,FL,3982,17398
+4,595GD,Reading,Reading,PA,3995,14371
+4,503GB,DuBois (Clearfield),DuBois,PA,4000,19747
+11,515GA,Muskegon,Muskegon,MI,4007,25309
+18,678GC,Casa Grande,Casa Grande,AZ,4018,26555
+9,603GF,Grayson County,Clarkson,KY,4027,30901
+16,629GC,Slidell,Slidell,LA,4029,28349
+12,537GD,Chicago HCS (Lakeside),Chicago,IL,4031,18792
+4,503GC,State College (Centre County),State College,PA,4033,17455
+5,613GB,Hagerstown,Hagerstown,MD,4058,19343
+23,618GE,Chippewa Valley,Chippewa Falls,WI,4062,15473
+5,613GC,Stephens City,Kernstown,VA,4070,22287
+7,534GC,Beaufort,Beaufort,SC,4070,22826
+22,691GG,Antelope Valley,Lancaster,CA,4082,12834
+22,605GD,Corona (Riverside County) CA,Corona,CA,4103,12328
+16,629GA,Houma,Houma,LA,4108,21171
+11,553GA,Yale,Yale,MI,4111,20651
+6,658GC,Lynchburg,Lynchburg,VA,4122,28664
+16,580GE,Katy,Katy,TX,4123,11996
+16,580GG,Richmond,Richmond,TX,4127,21649
+23,618GG,Rochester,Rochester,MN,4129,14142
+7,521GE,Anniston/Oxford AL,Oxford,AL,4134,24712
+23,636GJ,Dubuque,Dubuque,IA,4172,15156
+4,693GB,Williamsport,Williamsport,PA,4177,16116
+8,675GD,Orange City,Sanford,FL,4210,23818
+6,558GC,Morehead City,Morehead City,NC,4244,23983
+12,578GD,Aurora IL,North Aurora,IL,4246,25487
+17,674GC,College Station (Bryan),College Station,TX,4247,32174
+18,756GB,East El Paso (El Paso County),El Paso,TX,4260,15057
+16,502GA,Jennings,Jennings,LA,4265,18282
+19,436GB,Great Falls,Great Falls,MT,4296,22441
+9,614GA,Smithville,Smithville,MS,4309,18481
+20,687GA,Richland WA,Richland,WA,4325,28215
+4,595GC,Lancaster,Lancaster,PA,4344,18473
+23,636GK,Fort Dodge,Fort Dodge,IA,4373,14124
+22,600GB,Santa Ana,Santa Ana,CA,4411,22007
+1,689HC,New London VA Primary Care Center,New London,CT,4425,14617
+23,438GC,Sioux City,Sioux City,IA,4425,24841
+23,636GC,Mason City,Mason City,IA,4431,28350
+11,610GB,Muncie,Muncie,IN,4434,21084
+11,550GA,Decatur,Decatur,IL,4446,22115
+7,508GI,Newnan,Newnan,GA,4460,20660
+7,509GA,Athens,Athens,GA,4471,22173
+8,672GC,Arecibo,Arecibo,PR,4502,33714
+1,402GD,Saco,Saco,ME,4510,19087
+22,600GE,Laguna Hills,Laguna Hills,CA,4518,11846
+8,573GA,Valdosta,Valdosta,GA,4567,18808
+8,675GC,Kissimmee,Kissimmee,FL,4584,27815
+10,539GD,Florence,Florence,KY,4619,31750
+18,678GG,SE Tucson Urban 2,Tucson,AZ,4625,28310
+1,523BZ,Causeway Clinic (Boston),Boston,MA,4648,68281
+21,570GB,Tulare,Tulare,CA,4661,20050
+23,636GN,Cedar Rapids,Cedar Rapids,IA,4675,21346
+2,528GN,Binghamton,Binghamton,NY,4679,27747
+21,662GC,Eureka,Eureka,CA,4687,36933
+23,636GH,Waterloo,Waterloo,IA,4700,18915
+19,442GD,Greeley,Greeley,CO,4733,33689
+4,646GD,Washington County,Washington,PA,4735,18200
+8,675GE,Leesburg (Lake County),Leesburg,FL,4741,24597
+16,667GA,Texarkana,Texarkana,AR,4757,24851
+22,664GD,Escondido,Escondido,CA,4797,17429
+11,583GA,Terre Haute,Terre Haute,IN,4815,19636
+2,528GO,Watertown,Watertown,NY,4827,23890
+19,554GC,Lakewood,Lakewood,CO,4834,14215
+1,405HA,Colchester,Colchester,VT,4837,27473
+18,519HC,Abilene,Abilene,TX,4839,30513
+4,646GC,Beaver,Monaca,PA,4848,25046
+11,583GB,Bloomington,Bloomington,IN,4879,19250
+7,619GB,Dothan,Dothan,AL,4887,17749
+15,657GL,Paducah,Paducah,KY,4895,25316
+7,544GD,Anderson County,Anderson,SC,4906,27026
+4,503GA,Johnstown,Johnstown,PA,4906,27285
+19,436GF,Kalispell,Kalispell,MT,4939,34068
+7,544GG,Spartanburg,Spartanburg,SC,4945,25607
+17,671GF,South Bexar County,San Antonio,TX,4962,22494
+15,657GH,Cape Girardeau,Cape Girardeau,MO,4966,17863
+16,598GC,Hot Springs,Hot Springs,AR,4984,32507
+4,642GA,Outpatient Clinic at Marshall Hall,Lakehurst,NJ,5010,26530
+16,586GD,Hattiesburg,Hattiesburg,MS,5020,15596
+7,557GB,Albany GA,Albany,GA,5030,22509
+16,667GB,Monroe,Monroe,LA,5038,20603
+7,508GE,NE Georgia/Oakwood,Oakwood,GA,5049,23988
+10,541GC,Sandusky,Sandusky,OH,5087,25811
+11,655GB,Traverse City,Traverse City,MI,5100,20852
+22,605GA,Victorville,Victorville,CA,5105,21958
+10,539GA,Bellevue,Bellevue,KY,5112,34437
+19,660GA,Pocatello,Pocatello,ID,5116,30211
+9,603GA,Fort Knox,Fort Knox,KY,5126,21109
+21,612GD,Fairfield,Travis AFB,CA,5137,29054
+4,646GA,Belmont,St. Clairsville,OH,5152,18718
+9,596GA,Somerset,Somerset,KY,5164,20769
+11,550GD,Springfield,Springfield,IL,5192,33691
+19,660GB,Ogden,South Ogden,UT,5243,28497
+6,658GB,Danville,Danville,VA,5263,29820
+12,695GD,Milo C. Huempfner VA Outpatient Clinic (Green Bay),Green Bay,WI,5275,24946
+8,573GE,St. Augustine,St. Augustine,FL,5312,30671
+9,626GH,Cookeville,Cookeville,TN,5320,22854
+5,512GA,Cambridge,Cambridge,MD,5352,41002
+22,605GE,Rancho Cucamonga,Rancho Cucamonga,CA,5355,18792
+5,688GA,Alexandria (Fort Belvoir),Fort Belvoir,VA,5375,22472
+6,652GA,Fredericksburg,Fredericksburg,VA,5394,32009
+12,676GA,Wausau,Wausau,WI,5402,21446
+17,549GA,Tyler,Tyler,TX,5415,31134
+8,548GA,Ft Pierce,Fort Pierce,FL,5549,21182
+12,676GD,Wisconsin Rapids,Wisconsin Rapids,WI,5647,26640
+12,578GA,Joliet,Joliet,IL,5652,35641
+7,619GD,Wiregrass,Ft. Rucker,AL,5680,22018
+22,691GM,Port Hueneme (Oxnard),Oxnard,CA,5684,20934
+9,603GD,Dupont,Louisville,KY,5687,38007
+4,642GD,Gloucester County,Sewell,NJ,5688,27179
+18,678GA,Sierra Vista,Sierra Vista,AZ,5707,37907
+12,578GG,Oak Lawn,Oak Lawn,IL,5773,33507
+7,521GB,Decatur AL/Madison,Madison,AL,5784,27817
+17,671GK,San Antonio Area PCN,San Antonio,TX,5791,12575
+16,667GC,Longview,Longview,TX,5802,23884
+9,614GE,Covington,Memphis,TN,5866,23406
+23,656GA,Brainerd,Brainerd,MN,5892,36560
+2,528A4,Upstate New York HCS-Batavia,Batavia,NY,5920,62108
+16,520GB,Panama City,Panama City Beach,FL,5942,54058
+6,565GA,Jacksonville,Midway Park,NC,5991,29760
+23,568GA,Rapid City SD,Rapid City,SD,5991,31645
+8,548GC,Stuart,Stuart,FL,6087,23069
+22,691GL,Santa Maria,Santa Maria,CA,6113,39005
+12,676GC,La Crosse,La Crosse,WI,6129,28716
+21,612GE,Vallejo/Mare Island,Mare Island,CA,6187,22456
+10,539GB,Cincinnati (Clermont County),Cincinnati,OH,6194,46363
+18,678GF,NW Tucson Urban 1,Tucson,AZ,6230,37357
+7,557GA,Macon GA,Macon,GA,6262,19333
+3,561GD,Hackensack/Bergen County,Hackensack,NJ,6310,33066
+9,581GB,Charleston,Charleston,WV,6332,38003
+19,442GC,Fort Collins,Fort Collins,CO,6366,30488
+3,632GA,Plainview (formally East Meadow),East Meadow,NY,6367,18645
+23,618BY,Twin Ports,Superior,WI,6373,44091
+7,544GB,Florence SC,Florence,SC,6378,34958
+8,673GC,Brooksville,Brooksville,FL,6389,51782
+17,674GD,Cedar Park,Cedar Park,TX,6449,38029
+9,614GG,Jackson TN,Jackson,TN,6451,23312
+17,549GD,Denton Area Primary Care Network,Denton,TX,6593,19854
+7,508GF,Austell,Austell,GA,6621,35838
+1,631BY,Springfield,Springfield,MA,6631,55448
+19,436GC,Missoula,Missoula,MT,6659,47315
+8,516GF,Naples/Collier County,Naples,FL,6676,46486
+2,528GM,Rome,Rome,NY,6712,59398
+10,541GF,Painesville,Painesville,OH,6748,43394
+22,691GD,Bakersfield,Bakersfield,CA,6769,76353
+4,595GE,York County,York,PA,6800,34364
+9,603GB,New Albany IN (Southern Indiana),New Albany,IN,6853,47368
+5,512GC,Glen Burnie,Glen Burnie,MD,6886,38626
+4,646GB,Westmoreland,Greensburg,PA,6971,27548
+10,541GD,Mansfield,Mansfield,OH,7013,64453
+20,648GA,Bend,Bend,OR,7032,35960
+9,614GF,Memphis-South Clinic,Memphis,TN,7057,34178
+7,544GC,Rock Hill,Rock Hill,SC,7067,36863
+6,590GB,Norfolk-Virginia Beach,Virginia Beach,VA,7071,29030
+1,631GE,Worcester,Worcester,MA,7081,56532
+16,520GC,Eglin AFB,Eglin AFB,FL,7084,55310
+16,564GC,Branson,Branson,MO,7112,51026
+18,644GE,Thunderbird,Phoenix,AZ,7140,22923
+9,626GE,Clarksville,Clarksville,TN,7148,38353
+21,612GG,Chico,Chico,CA,7148,54283
+8,573GG,Lecanto,Lecanto,FL,7167,31888
+3,630A5,New York Harbor HCS-St. Albans Campus,Jamaica,NY,7229,69115
+7,508GG,Stockbridge,Stockbridge,GA,7243,42716
+7,521GA,Huntsville AL,Huntsville,AL,7261,47955
+23,618GI,Northwest Metro,Ransey,MN,7442,34495
+20,648GG,West Linn,West Linn,OR,7475,24468
+20,663GC,Mount Vernon,Mount Vernon,WA,7522,39372
+19,554GB,Aurora,Aurora,CO,7530,28629
+21,640HA,Stockton,French Camp,CA,7540,36659
+16,580BZ,Charles Wilson VA OPC,Lufkin,TX,7575,74977
+22,664GC,Chula Vista,Chula Vista,CA,7611,28504
+16,502GB,Lafayette,Lafayette,LA,7629,39005
+19,660GJ,Western Salt Lake,West Valley City,UT,7686,40213
+22,605GB,Murrieta,Murrieta,CA,7760,22233
+8,516GC,Palm Harbor,Palm Harbor,FL,7943,53360
+21,662GA,Santa Rosa,Santa Rosa,CA,7977,58679
+21,640HB,Modesto,Modesto,CA,8056,40903
+16,580GC,Galveston County,Galveston,TX,8137,46029
+7,508GA,East Point,East Point,GA,8187,43615
+8,548GB,Delray Beach,Delray Beach,FL,8224,24158
+21,612BY,Oakland,Oakland,CA,8227,118329
+6,659GB,Hickory,Hickory,NC,8339,57986
+9,603GE,Newburg,Louisville,KY,8404,45211
+12,607HA,Rockford,Rockford,IL,8498,49619
+18,644GA,Sun City,Surprise,AZ,8519,42413
+22,605GC,Palm Desert,Palm Desert,CA,8616,22038
+6,565GC,New Hanover County ( Wilmington),Wilmington,NC,8773,42286
+1,402HB,Bangor,Bangor,ME,8831,59353
+23,636GF,Bettendorf,Bettendorf,IA,8883,50275
+11,610GA,South Bend,South Bend,IN,8930,37207
+7,508GH,Lawrenceville (Gwinnett County),Lawrenceville,GA,8992,37021
+9,603GC,Shively (Louisville-Jefferson County),Louisville,KY,8993,45634
+8,516GE,Port Charlotte/Charlotte County,Port Charlotte,FL,9059,70841
+4,595GA,Camp Hill Outpatient Clinic,Camp Hill,PA,9093,50728
+20,648GB,Salem,Salem,OR,9122,32093
+6,558GA,Greenville,Greenville,NC,9172,45820
+19,554GD,Pueblo,Pueblo,CO,9192,86746
+16,580GD,Conroe,Conroe,TX,9240,47564
+16,635GA,Lawton,Ft. Sill,OK,9281,70585
+7,619GA,Columbus,Columbus,GA,9341,41784
+22,593GG,PCC Northeast,Las Vegas,NV,9422,48123
+22,593GF,PCC Southwest,Las Vegas,NV,9620,51912
+21,640HC,Monterey,Seaside,CA,9678,73094
+8,673GB,Lakeland,Lakeland,FL,9844,67291
+20,663GA,King County,Bellevue,WA,9876,32630
+18,504BY,Lubbock TX,Lubbock,TX,9890,100335
+20,648GE,East Metro Portland,Portland,OR,10009,36858
+8,672BZ,Mayaguez,Mayaguez,PR,10088,123202
+16,564GB,Ft. Smith,Fort Smith,AR,10131,99080
+17,740GA,Harlingen OPC,Harlingen,TX,10134,64371
+10,541BZ,Youngstown,Youngstown,OH,10164,87307
+20,653BY,Eugene,Eugene,OR,10188,62745
+17,740GC,Corpus Christi Satellite,Corpus Christi,TX,10334,95656
+4,693B4,Allentown,Allentown,PA,10419,84384
+4,642GC,Victor J. Saracini VA Outpatient Clinic,Horsham,PA,10565,32221
+7,534GD,Goose Creek SC,Goose Creek,SC,10636,49362
+22,593GE,PCC Southeast,Henderson,NV,10661,58609
+16,580BY,Beaumont,Beaumont,TX,10707,109236
+11,550BY,Peoria,Peoria,IL,10819,97523
+8,573GD,Ocala,Ocala,FL,11137,48028
+7,534GB,Myrtle Beach,Myrtle Beach,SC,11161,77869
+17,740GB,McAllen Satellite,McAllen,TX,11175,114180
+10,541GB,Lorain,Lorain,OH,11193,58251
+6,558GB,Raleigh,Raleigh,NC,11409,63152
+3,561BZ,Brick,Brick,NJ,11584,81557
+16,520GA,Mobile,Mobile,AL,11645,96792
+17,671GO,San Antonio TX,San Antonio,TX,11742,42537
+21,640BY,San Jose,San Jose,CA,11778,87425
+8,672B0,Ponce,Ponce,PR,11891,164020
+16,629BY,Baton Rouge,Baton Rouge,LA,12054,116724
+7,534BY,Savannah,Savannah,GA,12268,89776
+8,516GA,Sarasota,Sarasota,FL,12715,81924
+2,528GE,Rochester,Rochester,NY,13083,133004
+22,593GD,PCC Northwest,Las Vegas,NV,13106,78517
+8,516GD,Bradenton,Bradenton,FL,13109,75358
+23,636A4,Grand Island,Grand Island,NE,13144,137506
+5,512GD,Loch Raven,Baltimore,MD,13240,62163
+15,657GJ,Evansville,Evansville,IN,13540,119497
+12,537BY,Adams Benjamin Jr. (Crown Point IN),Crown Point,IN,13784,123498
+22,691GE,Los Angeles,Los Angeles,CA,14036,191753
+18,644BY,Mesa,Mesa,AZ,14143,64010
+10,541GG,Akron,Akron,OH,14253,133189
+11,506GA,Toledo,Toledo,OH,14522,145157
+8,573GF,Tallahassee,Tallahassee,FL,14857,146286
+23,636A5,Lincoln,Lincoln,NE,14931,148836
+7,544BZ,Greenville SC,Greenville,SC,14957,85499
+9,626GF,Chattanooga,Chattanooga,TN,15012,137477
+21,612B4,Redding,Redding,CA,15187,138093
+8,673BZ,New Port Richey,New Port Richey,FL,15662,205331
+20,692,Southern Oregon Rehabilitation Ctr & Clinics,White City,OR,16062,271590
+16,564BY,Gene Taylor,Mt. Vernon,MO,16240,166244
+8,573GI,The Villages Sumter County FL,The Villages,FL,16301,138499
+9,621BY,Knoxville,Knoxville,TN,16307,124316
+12,695BY,Appleton,Appleton,WI,16367,129550
+22,664GB,Oceanside,Oceanside,CA,16412,98253
+20,648GF,West Metro Portland,Hillsboro,OR,17306,56002
+17,549A4,Bonham VAMC,Bonham,TX,18488,199013
+17,740,Texas Valley Coastal Bend - Harlingen HCS,Harlingen,TX,18518,105987
+11,515BY,Grand Rapids,Grand Rapids,MI,19437,172887
+8,675GB,Daytona Beach,Daytona Beach,FL,19485,207815
+19,554GE,Colorado Springs,Colorado Springs,CO,20415,150612
+21,612GH,McClellan,McClellan Park,CA,20472,119669
+20,648A4,Vancouver,Vancouver,WA,20722,174484
+16,623BY,Tulsa,Tulsa,OK,21172,213518
+8,546BZ,Broward County,Sunrise,FL,21804,192496
+4,646A4,Heinz Division HCS,Pittsburgh,PA,22847,153017
+1,608,Manchester,Manchester,NH,23128,319830
+6,659BY,Winston-Salem,Winston-Salem,NC,23790,175402
+6,659GA,Charlotte,Charlotte,NC,23857,219261
+10,541BY,Canton,Canton,OH,23877,105593
+10,541GL,Parma,Parma,OH,24027,152245
+8,675GA,Viera OPC,Viera,FL,24869,352242
+17,674BY,Austin Satellite,Austin,TX,25318,275831
+17,671BY,Frank M. Tejeda Satellite,San Antonio,TX,25914,128419
+1,689A4,Newington Campus,Newington,CT,28080,280835
+9,596,Lexington-Leestown,Lexington,KY,28458,235472
+19,436GH,Billings,Billings,MT,29046,169797
+16,520BZ,Joint Ambulatory Care Center,Pensacola,FL,30660,263948
+22,691A4,Sepulveda,Sepulveda,CA,33142,354399
+8,516BZ,Ft. Myers (Lee County),Cape Coral,FL,33481,337622
+8,573BY,Jacksonville,Jacksonville,FL,35043,324554
+22,664BY,Mission Valley,San Diego,CA,36069,183785
+17,549BY,Fort Worth Satellite,Fort Worth,TX,39933,384355
+21,612GF,Martinez,Martinez,CA,48831,281250
+1,523,VA Boston HCS- Boston Div.,Boston,MA,49720,421328
+8,675GG,Lake Baldwin OPC,Orlando,FL,68117,647213
+8,675,Orlando,Orlando,FL,81883,340283
+17,740GE,Eagle Pass,Eagle Pass,TX,,
+17,549GC,Bonham Area Primary Care Network,Paris,TX,,
+4,642GE,Philadelphia,Philadelphia,PA,,
+16,580GH,Tomball,Tomball,TX,,
+16,635HA,Clinton,Clinton,OK,,
+17,549GB,Dallas County Primary Care Network,Dallas,TX,,
+17,549GI,Cleburne Area PCN,Waxahachie,TX,,
+18,504HB,Dalhart (formerly Stratford),Dalhart,TX,,
+22,691GN,South Central LA,Lynwood,CA,,
+22,691GO,Pasadena,San Gabriel,CA,,
+23,568HE,Kyle,Kyle,SD,,
